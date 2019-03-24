@@ -18,8 +18,8 @@ navigation:
   - about.md
 
 comments:
-  disqus: "disqus-contrast"
-#  isso: "comments.mysite.org"
+  disqus: "arsly"
+  #isso: "comments.mysite.org"
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
   - twitter: "https://twitter.com/twitter/"
